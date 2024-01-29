@@ -1,11 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a38bca14.css",
-<<<<<<< HEAD
-    "main.js": "/static/js/main.e1c07521.js",
-=======
-    "main.js": "/static/js/main.bbbace55.js",
->>>>>>> 76cfffa (Deploy 29Jan)
+    "main.js": "/static/js/main.883d5c5d.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -75,18 +71,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.a38bca14.css.map": "/static/css/main.a38bca14.css.map",
-<<<<<<< HEAD
-    "main.e1c07521.js.map": "/static/js/main.e1c07521.js.map"
+    "main.883d5c5d.js.map": "/static/js/main.883d5c5d.js.map"
   },
   "entrypoints": [
     "static/css/main.a38bca14.css",
-    "static/js/main.e1c07521.js"
-=======
-    "main.bbbace55.js.map": "/static/js/main.bbbace55.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a38bca14.css",
-    "static/js/main.bbbace55.js"
->>>>>>> 76cfffa (Deploy 29Jan)
+    "static/js/main.883d5c5d.js"
   ]
 }
